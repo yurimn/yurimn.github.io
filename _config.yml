@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+# url: https://yurimn.github.io/
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -49,21 +49,21 @@ author:
 # Add links to the sidebar.
 menu:
     - title: Example
-      url: https://yurimn.github.io/
+      url: /example/
     - title: Documentation
-      url: https://yurimn.github.io/
+      url: /docs/
     - title: About
-      url: https://yurimn.github.io/
+      url: /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
     - title: LICENSE
-      url: https://yurimn.github.io/
+      url: /LICENSE/
     - title: NOTICE
-      url: https://yurimn.github.io/
+      url: /NOTICE/
     - title: CHANGELOG
-      url: https://yurimn.github.io/
+      url: /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: © 2021. All rights reserved.
@@ -78,8 +78,8 @@ paginate_path: /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+#theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
