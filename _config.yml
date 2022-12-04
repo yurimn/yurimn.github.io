@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Yurim's Blog
-subtitle: "Everything I need is on the gournd."
+subtitle: "Everything I need is on the ground."
 email: leeyou6757@gmail.com
 name: Yurim Lee
 description: >
-  Everything I need is on the gournd.
+  Everything I need is on the ground.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
